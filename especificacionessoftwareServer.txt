@@ -1,0 +1,24 @@
+ubuntu: 22.04.1 TLS
+user: elvin
+pass: aristoteles
+
+Git:
+version: 2.341
+user git:
+elvin00157
+password: Aristoteles
+
+Docker:
+Version: 20.10.17
+
+Node:
+Version: 16.17.1
+npm: 
+
+Nombre del proyecto:
+prueba-react-server
+
+https://kimerikal.com/instalacion-y-primeros-pasos-para-montar-un-servidor-git-privado-sobre-ubuntu-14-04/
+
+ruta del repo  creado:
+git/
